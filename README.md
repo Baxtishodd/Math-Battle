@@ -1,2 +1,2 @@
 # Math-Battle
-Math battle in written in lython
+Math battle written in python
